@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|d:\\it and cs\\gr8food\\admin_only\\admin\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\updateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|solutionrelative:updateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|solutionrelative:admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|d:\\it and cs\\gr8food\\admin_only\\admin\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\updateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|solutionrelative:updateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\updateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|solutionrelative:adminclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|d:\\it and cs\\gr8food\\admin_only\\admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97544090-9E47-48D1-BAF8-BCEA93C585F7}|Admin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Admin.cs [Design]",
               "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\Admin.cs",
               "RelativeDocumentMoniker": "Admin.cs",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Admin.Designer.cs",
               "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\Admin.Designer.cs",
               "RelativeDocumentMoniker": "Admin.Designer.cs",
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Admin.cs",
               "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\Admin.cs",
               "RelativeDocumentMoniker": "Admin.cs",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UpdateProfile.cs",
               "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\Admin_Only\\Admin\\UpdateProfile.cs",
               "RelativeDocumentMoniker": "UpdateProfile.cs",
