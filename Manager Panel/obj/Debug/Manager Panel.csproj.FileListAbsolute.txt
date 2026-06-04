@@ -1,0 +1,17 @@
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\bin\Debug\Manager Panel.exe.config
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\bin\Debug\Manager Panel.exe
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\bin\Debug\Manager Panel.pdb
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager Panel.csproj.AssemblyReference.cache
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager_Panel.CustFeedback.resources
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager_Panel.feedback.resources
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager_Panel.User.resources
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager_Panel.Form1.resources
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager_Panel.Login.resources
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager_Panel.Properties.Resources.resources
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager_Panel.Wallet.resources
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager_Panel.walletcust.resources
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager Panel.csproj.GenerateResource.cache
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager Panel.csproj.CoreCompileInputs.cache
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager Panel.exe
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager Panel.pdb
+C:\Users\divin\source\repos\Manager Panel\Manager Panel\obj\Debug\Manager_Panel.Reply.resources
