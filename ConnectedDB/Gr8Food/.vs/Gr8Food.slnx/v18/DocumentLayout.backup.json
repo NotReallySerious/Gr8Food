@@ -3,27 +3,47 @@
   "WorkspaceRootPath": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|d:\\it and cs\\gr8food\\connecteddb\\gr8food\\gr8food\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|d:\\it and cs\\gr8food\\connecteddb\\gr8food\\gr8food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|d:\\it and cs\\gr8food\\connecteddb\\gr8food\\gr8food\\chefnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\chefnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|d:\\it and cs\\gr8food\\connecteddb\\gr8food\\gr8food\\mainchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\mainchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|d:\\it and cs\\gr8food\\connecteddb\\gr8food\\gr8food\\chefmanageorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\chefmanageorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|d:\\it and cs\\gr8food\\connecteddb\\gr8food\\gr8food\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|d:\\it and cs\\gr8food\\connecteddb\\gr8food\\gr8food\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|d:\\it and cs\\gr8food\\connecteddb\\gr8food\\gr8food\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\gr8food\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\gr8food\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|d:\\it and cs\\gr8food\\connecteddb\\gr8food\\gr8food\\chefupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\gr8food\\chefupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\chefupdateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|d:\\it and cs\\gr8food\\connecteddb\\gr8food\\gr8food\\chefmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\gr8food\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\gr8food\\chefnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\chefnewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\gr8food\\chefmanageorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\chefmanageorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\gr8food\\chefmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA4FB2B5-AA51-4CA0-9BF7-E8506A490758}|Gr8Food\\Gr8Food.csproj|solutionrelative:gr8food\\chefmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -34,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,75 +62,133 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\Program.cs",
+              "RelativeDocumentMoniker": "Gr8Food\\Program.cs",
+              "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\Program.cs*",
+              "RelativeToolTip": "Gr8Food\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T03:48:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainChef.cs",
+              "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\MainChef.cs",
+              "RelativeDocumentMoniker": "Gr8Food\\MainChef.cs",
+              "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\MainChef.cs",
+              "RelativeToolTip": "Gr8Food\\MainChef.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T03:47:49.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Gr8Food\\DBHelper.cs",
+              "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\DBHelper.cs",
+              "RelativeToolTip": "Gr8Food\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T03:46:19.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\Admin.cs",
+              "RelativeDocumentMoniker": "Gr8Food\\Admin.cs",
+              "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\Admin.cs",
+              "RelativeToolTip": "Gr8Food\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T03:39:32.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\Admin.cs",
+              "RelativeDocumentMoniker": "Gr8Food\\Admin.cs",
+              "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\Admin.cs [Design]",
+              "RelativeToolTip": "Gr8Food\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T03:36:38.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "register.cs [Design]",
               "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\register.cs",
               "RelativeDocumentMoniker": "Gr8Food\\register.cs",
               "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\register.cs [Design]",
               "RelativeToolTip": "Gr8Food\\register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T08:24:55.267Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-01T08:24:55.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\Login.cs",
               "RelativeDocumentMoniker": "Gr8Food\\Login.cs",
               "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\Login.cs [Design]",
               "RelativeToolTip": "Gr8Food\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T08:22:55.725Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-01T08:22:55.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ChefUpdateProfile.cs [Design]",
               "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\ChefUpdateProfile.cs",
               "RelativeDocumentMoniker": "Gr8Food\\ChefUpdateProfile.cs",
               "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\ChefUpdateProfile.cs [Design]",
               "RelativeToolTip": "Gr8Food\\ChefUpdateProfile.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T08:22:50.05Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-01T08:22:50.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ChefNewItem.cs [Design]",
               "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\ChefNewItem.cs",
               "RelativeDocumentMoniker": "Gr8Food\\ChefNewItem.cs",
               "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\ChefNewItem.cs [Design]",
               "RelativeToolTip": "Gr8Food\\ChefNewItem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T08:22:47.899Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-01T08:22:47.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ChefManageOrders.cs [Design]",
               "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\ChefManageOrders.cs",
               "RelativeDocumentMoniker": "Gr8Food\\ChefManageOrders.cs",
               "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\ChefManageOrders.cs [Design]",
               "RelativeToolTip": "Gr8Food\\ChefManageOrders.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T08:22:43.505Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-01T08:22:43.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ChefMenu.cs [Design]",
               "DocumentMoniker": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\ChefMenu.cs",
               "RelativeDocumentMoniker": "Gr8Food\\ChefMenu.cs",
               "ToolTip": "D:\\IT AND CS\\Gr8Food\\ConnectedDB\\Gr8Food\\Gr8Food\\ChefMenu.cs [Design]",
               "RelativeToolTip": "Gr8Food\\ChefMenu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T08:22:41.298Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-01T08:22:41.298Z"
             }
           ]
         }

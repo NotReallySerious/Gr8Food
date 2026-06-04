@@ -17,7 +17,7 @@ namespace Gr8Food
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Logincs());
+            Application.Run(new frmLogin());
         }
     }
 }

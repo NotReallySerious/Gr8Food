@@ -37,7 +37,9 @@ namespace Gr8Food
 
         private void btnLogout_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            frmLogin obj1 = new frmLogin();
+            this.Hide();
+            obj1.Show();
 
         }
 

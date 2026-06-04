@@ -5,7 +5,7 @@ CREATE TABLE Users (
     Email        VARCHAR(255) NOT NULL UNIQUE,
     Password     VARCHAR(255) NOT NULL,
     Role         VARCHAR(20)  NOT NULL CHECK (Role IN ('Admin', 'Manager', 'Chef', 'Customer')),
-    EWalletBalance DECIMAL(10,2) NOT NULL DEFAULT 0.00
+    BBCBalance DECIMAL(10,2) NOT NULL DEFAULT 0.00
 );
 
 -- MenuItems
@@ -53,8 +53,8 @@ CREATE TABLE Feedback (
     FOREIGN KEY (OrderID)    REFERENCES Orders(OrderID)
 );
 
--- EWalletTransactions
-CREATE TABLE EWalletTransactions (
+-- BBCTransactions
+CREATE TABLE BBCTransactions (
     TransactionID INT PRIMARY KEY IDENTITY(1,1),
     UserID        INT NOT NULL,
     Amount        DECIMAL(10,2) NOT NULL,

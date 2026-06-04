@@ -13,7 +13,7 @@ using System.Windows.Forms;
 
 namespace Gr8Food
 {
-    public partial class Admin : Form
+    public partial class frmAdmin : Form
     {
         // ── Sales Report controls (grpSalesReport declared in Admin_Designer.cs) ──────
         private Label lblSortMode;
@@ -33,7 +33,7 @@ namespace Gr8Food
         private readonly string _connectionString;
 
         // ── Constructor ───────────────────────────────────────────────────────────────
-        public Admin()
+        public frmAdmin()
         {
             InitializeComponent();
 
@@ -338,7 +338,12 @@ namespace Gr8Food
         }
 
         // ── Designer stub handlers ────────────────────────────────────────────────────
-        private void btnLogOut_Click(object sender, EventArgs e) { }
+        private void btnLogOut_Click(object sender, EventArgs e) 
+        {
+            frmLogin obj1 = new frmLogin();
+            this.Hide();
+            obj1.Show();
+        }
         private void lblPassword_Click(object sender, EventArgs e) { }
         private void lblBBC_Click(object sender, EventArgs e) { }
         private void dgvUsers_CellContentClick(object sender, DataGridViewCellEventArgs e) { }
@@ -405,7 +410,7 @@ namespace Gr8Food
         }
 
         private bool AddUserToDb(string name, string email,
-                                 string password, string role, decimal bbc)
+                                string password, string role, decimal bbc)
         {
             using (SqlConnection conn = new SqlConnection(_connectionString))
             {

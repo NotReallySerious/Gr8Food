@@ -137,6 +137,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ChefManageOrders.resx">
       <DependentUpon>ChefManageOrders.cs</DependentUpon>
       <SubType>Designer</SubType>

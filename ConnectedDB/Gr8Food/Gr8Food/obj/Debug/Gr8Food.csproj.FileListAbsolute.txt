@@ -17,3 +17,6 @@ D:\IT AND CS\Gr8Food\ConnectedDB\Gr8Food\Gr8Food\obj\Debug\Gr8Food.csproj.CoreCo
 D:\IT AND CS\Gr8Food\ConnectedDB\Gr8Food\Gr8Food\obj\Debug\Gr8Food.csproj.Up2Date
 D:\IT AND CS\Gr8Food\ConnectedDB\Gr8Food\Gr8Food\obj\Debug\Gr8Food.exe
 D:\IT AND CS\Gr8Food\ConnectedDB\Gr8Food\Gr8Food\obj\Debug\Gr8Food.pdb
+D:\IT AND CS\Gr8Food\ConnectedDB\Gr8Food\Gr8Food\obj\Debug\Gr8Food.frmAdmin.resources
+D:\IT AND CS\Gr8Food\ConnectedDB\Gr8Food\Gr8Food\obj\Debug\Gr8Food.frmLogin.resources
+D:\IT AND CS\Gr8Food\ConnectedDB\Gr8Food\Gr8Food\obj\Debug\Gr8Food.frmregister.resources
