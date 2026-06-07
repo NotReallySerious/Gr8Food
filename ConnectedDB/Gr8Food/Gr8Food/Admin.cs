@@ -12,7 +12,7 @@ using System.Windows.Forms;
 using System.Globalization; // Cleaned: Kept only a single declaration block
 using System.Text.RegularExpressions;
 
-namespace Admin
+namespace Gr8Food
 {
     public partial class frmAdmin : Form
     {
@@ -137,19 +137,14 @@ namespace Admin
 
         private void cmbUserID_SelectedIndexChanged(object sender, EventArgs e)
         {
-            // 1. Exit instantly if this change was triggered automatically by clicking a row in the DataGridView
             if (isRowClicking) return;
 
-            // 2. Safety net: Check if something is actually selected or typed
             if (cmbUserID.SelectedItem == null && string.IsNullOrWhiteSpace(cmbUserID.Text)) return;
 
             try
             {
                 string selectedUserId = "";
 
-                // 3. Robust Data-Bound Extraction
-                // When a ComboBox is bound to a data list, .SelectedItem can be an object or DataRowView.
-                // Reading the .Text property directly bypasses binding discrepancies safely.
                 if (cmbUserID.SelectedIndex != -1)
                 {
                     selectedUserId = cmbUserID.Text.Trim();
@@ -159,22 +154,18 @@ namespace Admin
                     selectedUserId = cmbUserID.SelectedItem.ToString().Trim();
                 }
 
-                // If we still don't have a valid ID string, abort execution safely
                 if (string.IsNullOrWhiteSpace(selectedUserId)) return;
 
-                // 4. Query your backend database utility layer to get details for this specific User ID
                 DataTable userDetails = utils.GetUserDetails(selectedUserId);
 
                 if (userDetails != null && userDetails.Rows.Count > 0)
                 {
                     DataRow row = userDetails.Rows[0];
 
-                    // 5. Populate your input fields with the database values cleanly using exact schema column match names
                     txtusername.Text = row["Name"]?.ToString() ?? "";
                     txtEmail.Text = row["Email"]?.ToString() ?? "";
                     txtPass.Text = row["Password"]?.ToString() ?? "";
 
-                    // 6. Update your Role ComboBox selection safely
                     string dbRole = row["Role"]?.ToString() ?? "";
                     if (!string.IsNullOrEmpty(dbRole) && cmbRole.Items.Count > 0)
                     {

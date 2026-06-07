@@ -1,4 +1,4 @@
-﻿namespace Admin
+﻿namespace Gr8Food
 {
     partial class frmAdmin
     {

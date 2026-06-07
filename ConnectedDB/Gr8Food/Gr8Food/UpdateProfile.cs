@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Admin
+namespace Gr8Food
 {
     public partial class frmUpdateProfile : Form
     {

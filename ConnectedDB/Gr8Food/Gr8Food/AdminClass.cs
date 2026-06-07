@@ -9,15 +9,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Admin
+namespace Gr8Food
 {
     public class AdminClass
     {
         public string Name;
-        string Role = "admin";
-        public AdminClass(string name, string role)
+        public string password;
+        public string Role = "admin";
+        public AdminClass(string name, string password, string role)
         {
             this.Name = name;
+            this.Password = password; 
             this.Role = role;
         }
 
@@ -115,12 +117,10 @@ namespace Admin
 
                     using (SqlCommand cmd = new SqlCommand(query, conn))
                     {
-                        // Use ExecuteReader instead of ExecuteScalar to get all rows
                         using (SqlDataReader reader = cmd.ExecuteReader())
                         {
                             while (reader.Read())
                             {
-                                // Read the UserId from each row and add it to our list
                                 userIds.Add(reader["UserId"].ToString());
                             }
                         }
@@ -157,13 +157,13 @@ namespace Admin
                 // 1. Keep track of what item text was highlighted before the wipe
                 object currentlySelectedId = targetlistbox.SelectedItem;
 
-                // 2. Refresh the DataGridView using your existing DataTable method
+                // 2. Refresh the DataGridView using existing DataTable method
                 targetGrid.DataSource = null;
                 targetGrid.DataSource = this.ShowAllUsers();
 
-                // 3. Refresh the User ID ListBox using your string list method
+                // 3. Refresh the User ID ListBox using string list method
                 targetlistbox.DataSource = null;
-                targetlistbox.DataSource = this.GetAllUserIds(); // Returns your List<string>
+                targetlistbox.DataSource = this.GetAllUserIds(); // Returns the List<string>
 
                 // 4. Put the user's string selection highlight back if it still exists
                 if (currentlySelectedId != null && targetlistbox.Items.Contains(currentlySelectedId))
@@ -180,7 +180,6 @@ namespace Admin
         {
             DataTable reportTable = new DataTable();
 
-            // Using pure $ string interpolation for the base query sequence
             string query = $@"SELECT 
                                 o.OrderID AS [Order ID],
                                 o.OrderDate AS [Date],
@@ -272,13 +271,11 @@ namespace Admin
 
                         if (!string.IsNullOrWhiteSpace(chefFilter))
                         {
-                            // Using string interpolation to append wildcards for partial matching
                             cmd.Parameters.AddWithValue("@ChefName", $"%{chefFilter.Trim()}%");
                         }
 
                         if (!string.IsNullOrWhiteSpace(categoryFilter))
                         {
-                            // Using string interpolation to append wildcards for partial matching
                             cmd.Parameters.AddWithValue("@Category", $"%{categoryFilter.Trim()}%");
                         }
 
@@ -306,7 +303,7 @@ namespace Admin
                 using (SqlConnection conn = DBHelper.GetConnection())
                 {
                     conn.Open();
-                    string query = $"SELECT COUNT(1) FROM users WHERE Name = @ChefName AND Role = 'chef'";
+                    string query = $@"SELECT COUNT(1) FROM users WHERE Name = @ChefName AND Role = 'chef'";
 
                     using (SqlCommand cmd = new SqlCommand(query, conn))
                     {
